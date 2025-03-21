@@ -98,6 +98,4 @@ This repository contains my projects completed during the **Data Analyst course 
 - **Cleaning & Preprocessing**: error removal, normalization, validation  
 - **Presentation**: Written reports, PPTs, interactive dashboards
 
----
 
-Let me know if you want this formatted as a PDF, a CV layout, or a personal website section!
